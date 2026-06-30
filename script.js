@@ -170,7 +170,7 @@ function hideResults() {
 }
 
 function changeBackground(pipeType) {
-    [hdpeBackground, upvcBackground, pprBackground, pphBackground].forEach(b => b.classList.remove('active','hdpe-fallback','upvc-fallback','ppr-fallback','pph-fallback'));
+    [hdpeBackground, upvcBackground, pprBackground, pphBackground].forEach(b => b.classList.remove('active','hdpe-fallback','ppr-fallback','pph-fallback'));
     const map = { HDPE: [hdpeBackground, 'https://misrelhegaz.com/ar/wp-content/uploads/2020/08/HDPE-Pipes.jpg', 'hdpe-fallback'],
                   UPVC: [upvcBackground, 'https://www.defpipe.com/wp-content/uploads/2022/09/CPVC-Pipes-ASTM-SCH40-and-SCH80-6.jpg'],
                   PPR: [pprBackground, 'https://misrelhegaz.com/ar/wp-content/uploads/2020/08/Main-Image.jpg', 'ppr-fallback'],
