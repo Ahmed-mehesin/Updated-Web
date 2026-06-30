@@ -464,7 +464,7 @@ function generateQuotationPDF() {
                 </tr>
             </tbody>
         </table>
-        <div class="pdf-note">* All prices include applicable taxes. This quotation is generated automatically from Al Rowad Pipe Specs Calculator.</div>
+        <div class="pdf-note">* All prices include applicable taxes. This quotation is generated automatically from Al Rowad Pipe Website.</div>
         <div class="pdf-footer">Al Rowad for Plastic Pipes &nbsp;|&nbsp; PIPE SPECS &nbsp;|&nbsp; Created by ENG. AHMED MEHESIN &copy; 2025</div>
     `;
 
