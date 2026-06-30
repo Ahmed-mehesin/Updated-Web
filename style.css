@@ -13,7 +13,7 @@ body { font-family: 'Montserrat', sans-serif; background-color: var(--light); co
 .pipe-background { position: fixed; top: 0; left: 0; width: 100%; height: 100%; background-size: cover; background-position: center; opacity: 0; z-index: -1; transition: opacity 1.5s ease-in-out; }
 .pipe-background.active { opacity: 0.8; }
 .pipe-background.hdpe { background-image: url('https://misrelhegaz.com/ar/wp-content/uploads/2020/08/HDPE-Pipes.jpg'); }
-.pipe-background.upvc { background-image: url('https://www.seif-pipes.com/wp-content/uploads/2022/12/main-slider-1-3-1024x498-seif-alnasr-UPVC-Pipes-1.jpg'); }
+.pipe-background.upvc { background-image: url('https://sc04.alicdn.com/kf/Hafc395b471ba4cdf942f82aa7172f4cdy.png_350x350.png'); }
 .pipe-background.ppr { background-image: url('https://misrelhegaz.com/ar/wp-content/uploads/2020/08/Main-Image.jpg'); }
 .pipe-background.pph { background-image: url('https://imgg.io/images/2026/06/30/670bbc30d72d6263c8baad74b806e33c.jpg'); }
 .pipe-background.hdpe-fallback { background: linear-gradient(135deg, #2c3e50, #4ca1af); }
