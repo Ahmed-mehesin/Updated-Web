@@ -172,7 +172,7 @@ function hideResults() {
 function changeBackground(pipeType) {
     [hdpeBackground, upvcBackground, pprBackground, pphBackground].forEach(b => b.classList.remove('active','hdpe-fallback','ppr-fallback','pph-fallback'));
     const map = { HDPE: [hdpeBackground, 'https://misrelhegaz.com/ar/wp-content/uploads/2020/08/HDPE-Pipes.jpg', 'hdpe-fallback'],
-                  UPVC: [upvcBackground, 'https://www.seif-pipes.com/wp-content/uploads/2022/12/main-slider-1-3-1024x498-seif-alnasr-UPVC-Pipes-1.jpg'],
+                  UPVC: [upvcBackground, 'https://sc04.alicdn.com/kf/Hafc395b471ba4cdf942f82aa7172f4cdy.png_350x350.png'],
                   PPR: [pprBackground, 'https://misrelhegaz.com/ar/wp-content/uploads/2020/08/Main-Image.jpg', 'ppr-fallback'],
                   PPH: [pphBackground, 'https://image2url.com/r2/default/images/1770106809713-b43029d8-a8df-4a55-9e5b-34a2ba8c745a.jpg', 'pph-fallback'] };
     if (map[pipeType]) {
