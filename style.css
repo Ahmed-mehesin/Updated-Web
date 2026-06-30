@@ -17,7 +17,7 @@ body { font-family: 'Montserrat', sans-serif; background-color: var(--light); co
 .pipe-background.ppr { background-image: url('https://misrelhegaz.com/ar/wp-content/uploads/2020/08/Main-Image.jpg'); }
 .pipe-background.pph { background-image: url('https://imgg.io/images/2026/06/30/670bbc30d72d6263c8baad74b806e33c.jpg'); }
 .pipe-background.hdpe-fallback { background: linear-gradient(135deg, #2c3e50, #4ca1af); }
-.pipe-background.upvc-fallback { background: linear-gradient(135deg, #34495e, #7f8c8d); }
+
 .pipe-background.ppr-fallback { background: linear-gradient(135deg, #16a085, #2980b9); }
 .pipe-background.pph-fallback { background: linear-gradient(135deg, #16a085, #2980b9); }
 
